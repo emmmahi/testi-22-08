@@ -28,7 +28,7 @@ def add_background_color():
 
 # Kutsu funktio muuttaaksesi taustavärin
 add_background_color()
-st.write("Did this trigger you")
+st.write("Did this trigger you?")
 st.title("Rivin valinta taulukosta")
 st.write("Valitse haluttu rivi klikkaamalla rivin vasenta laitaa.")
 st.write("Voit järjestää taulukkoa uudelleen valitsemalla halutun ominaisuuden.")
